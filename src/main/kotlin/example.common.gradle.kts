@@ -1,0 +1,3 @@
+allprojects {
+    // Configure something
+}
