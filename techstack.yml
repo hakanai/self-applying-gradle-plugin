@@ -1,0 +1,33 @@
+repo_name: hakanai/self-applying-gradle-plugin
+report_id: a01d9f320188c29368e50a7403c8ebe7
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:59:49+00:00'
+requested_by: hakanai
+provider: github
+branch: main
+detected_tools_count: 2
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/hakanai/self-applying-gradle-plugin
+  detection_source: Repo Metadata
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/hakanai/self-applying-gradle-plugin/blob/main/gradlew
+  detection_source: gradlew
+  last_updated_by: Hakanai
+  last_updated_on: 2022-06-10 02:32:36.000000000 Z
